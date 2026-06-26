@@ -11,9 +11,10 @@ Amazon EC2 changes the economics of computing by allowing you to pay only for ca
 <ins>**Topics Covered**<ins>
 
 By the end of this lab, you will be able to:
--Launch a web server with termination protection enabled
--Monitor Your EC2 instance
--Modify the security group that your web server is using to allow HTTP access
--Resize your Amazon EC2 instance to scale
--Test termination protection
--Terminate your EC2 instance
+
+- Launch a web server with termination protection enabled
+- Monitor Your EC2 instance
+- Modify the security group that your web server is using to allow HTTP access
+- Resize your Amazon EC2 instance to scale
+- Test termination protection
+- Terminate your EC2 instance
